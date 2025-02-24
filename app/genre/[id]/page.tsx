@@ -1,5 +1,4 @@
 import MovieCarousel from "@/components/MovieCarousel";
-import { Button } from "@/components/ui/button";
 import { getDiscoverMovies } from "@/lib/getMovies";
 
 async function page({
